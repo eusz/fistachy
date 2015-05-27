@@ -1,0 +1,59 @@
+body {
+  font-size: 18px;
+  color: red;
+}
+
+#podziel{
+	width: 800px;
+	border: none;
+	margin: auto;
+	padding: 10px
+}
+
+#g{
+	width: 800px;
+	border: none;
+	margin: auto;
+	line-height: 3em;
+	text-align: center;
+	opacity: 0.5;
+}
+
+#menu{
+	width: 200px;
+	border: none;
+	margin: 0;
+	float: left;
+	background-color:lightblue;
+    box-shadow:4px 4px 0 black;
+    text-align: center;
+    padding-top: 1.5em;
+}
+
+p:hover{
+	background-color: green;
+}
+
+#tekst{
+	width: 500px;
+	border: 1px solid black;
+	margin: 5px;
+	padding: 20px;
+	float: left;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 1.4em
+}
+
+a:link{
+	color: red; 
+	text-decoration: none;
+}
+a:visited{
+	color: blue; 
+	text-decoration: none;
+}
+a:hover{
+	background-color: yellow; 
+	text-decoration: underline;
+	color: green;
+}
