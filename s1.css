@@ -1,0 +1,84 @@
+a {
+	color: rgb(238, 63, 63);
+	text-decoration: underline;
+	font-size: 0.9em;
+}
+div > div {margin: auto; width:900px;}
+div > div > div {display: inline-block; width: auto;}
+div > div > div:hover{
+	text-decoration: underline;
+}
+h1{
+	font-family: Helvetica;
+	font-size: 2em;
+}
+p{
+	font-family: Helvetica;
+	font-size: 1.2em;
+	width: 600px;
+}
+ul{
+	text-align: left;
+	line-height: 2em;
+	font-family: Helvetica;
+	font-size: 1.2em;
+	margin-left: -20px;
+}
+h4{
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+
+#header{
+	background-color: black;
+	font-family: Helvetica;
+	color: rgb(153, 153, 153);
+	text-align: center;
+	padding: 18px;
+	margin: -10px -10px 0px -10px;
+	vertical-align: middle;
+	font-size: 1em;
+	border-bottom: 1px solid rgb(238, 63, 63);
+}
+#bel {
+	background-color: rgb(192, 0, 0);
+	padding: 30px;
+	border-top: 1px black double;
+	margin-left: -10px;
+	margin-right: -10px;
+	text-align: center;
+}
+#botton {
+	background-color: rgb(160, 0, 0);
+	border-radius: 17px;
+	padding: 8px
+}
+
+#tekst{
+	background-color: rgb(165, 216, 223);
+	border-top: 1px double grey;
+	margin-left: -10px;
+	margin-right: -10px;
+	padding-bottom: 12px;
+}
+
+#kolumna{
+	background-color: white;
+	width: 200px;
+	float: right;
+}
+
+.linkbel {
+	font-family: Calibri;
+	font-size: 1.4em;
+	color: white;
+	margin: 8px;
+	text-decoration: none;
+}
+
+ .tresc{
+ 	background-color: white;
+ 	font-family: Helvetica;
+ 	font-size: 1em;
+ }
